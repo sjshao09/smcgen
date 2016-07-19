@@ -30,11 +30,11 @@ Springer, 2001.
 
 ### Example applications
 
-#### 1. [Stochastic volatility] (stochastic_volatility)
+#### 1. [Stochastic volatility] (APP/stochastic_volatility)
 
-#### 2. [Robot localisation] (robot_localisation)
+#### 2. [Robot localisation] (APP/robot_localisation)
 
-#### 3. [Robot localisation with moving objects] (robot_localisation_with_moving_objects)
+#### 3. [Robot localisation with moving objects] (APP/robot_localisation_with_moving_objects)
 
 ### How to contribute?
 1. Make sure you have a [GitHub] (https://github.com/) account.
